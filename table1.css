@@ -1,0 +1,12 @@
+*{
+    margin: 5px;
+}
+
+fieldset{
+    width: 400px; 
+}
+
+.text_area{
+    display: block;
+    width: 220px;
+}
